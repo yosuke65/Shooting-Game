@@ -1,6 +1,7 @@
 # Shooting Flying Saucer
 
-Developed using Netbeans(Java)
+### Developed using Netbeans(Java)
+### Utilized MVC framework and strategy design pattern for an enemy type and observer design pattern for level change.
 
 ## Link for how this game work: 
 https://www.youtube.com/watch?v=fKZY7FB04RE
