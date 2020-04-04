@@ -2,7 +2,7 @@
 Developed using Netbeans(Java)</br>
 Utilized MVC framework and strategy design pattern for an enemy type and observer design pattern for level change.
 
-## Link for how this game work: 
+## Link for DEMO (how this game work): 
 https://www.youtube.com/watch?v=fKZY7FB04RE
 
 ## Download Link for Research Poster for Strategy Design Pattern: 
