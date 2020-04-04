@@ -1,7 +1,6 @@
 # Shooting Flying Saucer
 
-Developed using Netbeans
-Deploied MVC Framework
+Developed using Netbeans(Java)
 
 ## Link for how this game work: 
 https://www.youtube.com/watch?v=fKZY7FB04RE
